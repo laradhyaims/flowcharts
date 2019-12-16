@@ -1,1 +1,79 @@
-<mxfile host="www.draw.io" modified="2019-12-16T19:35:13.551Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Q12xjUcxGah_M73YC6rh" version="12.4.2" type="github" pages="1"><diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">5VrZcqM4FP0aP9qFhbGdxxDbPV01S6pSXdPpl5QAAZoGRAnhpb9+rkAyi5zEmfFS7c6D43sRWs65q5KB/ZBuP3Gcx3+wgCQDZAXbgb0YIDSzEHxKxa5WjB00rzURp4HSNYon+oMopaW0JQ1I0RkoGEsEzbtKn2UZ8UVHhzlnm+6wkCXdVXMcEUPx5OPE1P5NAxEr7diymge/ERrFaum5ox542P8ecVZmar0BssPqp36cYj2XGl/EOGCblspeDuwHzpiov6XbB5JIbDVs9XurV57u981JJo55IfEiksbfgtnn8NvT85ev2ZcXMdRkrXFSEn2OardipxEiWXAvgQbJT3BRUH9gu7FIE1CM4Susz3dfQbBGjhafpaiFxbYj7drSI+E0JYJwrdxSUc81QXdKftYLwfdmLinsWkJ/poafv0qR0IwofX0+Ehhm0QCpVAUruU/eQk9RKzCPiHhj4PhuTzg4EmGwT76DFzeNxWmzilu2pnWcJFjQdXfDWBl+tJ9uv8Ijo3AUZCkn1dtULjrXrqdnqM+pXmpbUG+eWXee2bQ3Tw2DMQ98aR26UVX2+QFbHRum6pYUvF0aKxZlYRhuITj7vvdq1LVacMdcjku3kQxsozBhGz/GXIzAhFKaYcHAktxNTAV5ynFlBxsYubegNeGCbN+2IZNx9cJk3MVyOldyyyL2IahtEn3M2+x3AP8oushAd8VZxT74fxV/AyLDGgGOgypIV0GukA6HLJbBxycq4tI7FQ1AKhcv4zNyYHU5cA5QMLkkBdP3Y7E8MIXk9Tv2SPLICiooQG8vPCYES7vQ6rH3CY3kGMEkcFhJPqAkY6Vb0/PAEmnvi4zJQOmGNEm0ChKbZbnLFTpAF/5RcjKKKuJfKhOx3VwGAMKXa1ihUHs5AV2O06PLMeh6K4aenC3twf8rdb6W7UaW8+GEd8rEds10Zff8cm7/x3w1mb4SZC+VsMyMBVZA+ZrtcOaToSfT13BDPJznhulUlQsJlKEcCoEtO8JewZJSkHvuqwq70jbSZO/o7Th8hkQ2nh6ZyM7nl2Ym66AeyrQGjjmEcxcQPYeQZmiIfWEWED8pB5PJ1Tmwj+QAQgXBBbk9DhzbTE8X5sB5hwMIQGQYkDxhu1tBHV3f8o8o4nCR1zcZId1KjNtYVsVTtSnHHTiLQwUbTasrDTcEH9IIo0a/oGkEW0+oJw9Q+BjK9tXnLGSjYh2dqBTrw26bsKMDqKOzoT4zUP+TbFTX4qkuMefsH4k79C4xlr+qBxBxrNWy2jtsHVlQupBCPnWXBnGAmOi1L+8Vz0plkNgvzlMaBHKZg77WeKN1IgLtHoEHium7ixJo3kN1ghVwJzjkB8aHkp6bSRP2Ac+5cMC6M5D/ea9V7FcK/uvdqphN4q1fq/RuG69+q4LMLszA8he+Vhn3bnWvfa2i2bnlprkXpq7fM6Nj+7Wb6Zl7FFy/ZUaTIym4mZa5R8H1O2b0C3TM/cL/jHY/kKWO/ut2fafa/AuBvfwX</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-16T19:36:36.210Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZoPtyCigJLKG4lC6yLqr" version="12.4.2" type="github" pages="1">
+  <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
+    <mxGraphModel dx="702" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-28" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.429;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;backgroundOutline=0;" parent="1" source="lbgemhZd7IfZSYUXnU_t-20" target="lbgemhZd7IfZSYUXnU_t-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="810" as="sourcePoint"/>
+            <mxPoint x="70" y="760" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-1" value="Build status" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="410" y="680" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-2" value="Front end code merged to master on Github" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="400" y="50" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="55" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-10" value="" style="endArrow=classic;html=1;exitX=0.429;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lbgemhZd7IfZSYUXnU_t-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="830" as="sourcePoint"/>
+            <mxPoint x="460" y="680" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-11" value="clairvoyance-build-webapp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="160" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-12" value="clairvoyance-frontend-version-artifacts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="440" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-13" value="clairvoyance-frontend-release-artifacts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="535" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-15" value="clairvoyance-fe-be-deploy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="240" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Info.svg;" parent="1" vertex="1">
+          <mxGeometry x="510" y="230" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-17" value="New codebuild project that builds FE with latest BE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="255" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-18" value="clairvoyance-protractor-tests" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="330" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-19" value="Build status" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="30" y="680" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-20" value="Front end code merged to master on Github" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="50" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="55" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-22" value="clairvoyance-build-webapp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-23" value="clairvoyance-frontend-version-artifacts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="440" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-24" value="clairvoyance-frontend-release-artifacts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="535" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbgemhZd7IfZSYUXnU_t-25" value="clairvoyance-fe-be-deploy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="240" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="TZGNj01FBC_Y-pRd_ctB-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Existing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="815" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="TZGNj01FBC_Y-pRd_ctB-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Proposed&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="815" width="90" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
